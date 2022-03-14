@@ -32,7 +32,7 @@ Output: Simulation results with plot in csv or pdf format
 ## The basic design
 For data analysis, steps were coded into Python functions. To estimate/calculate parameters of interest, the "modeling plus curve fitting" approach was used.
 
-For modeling, Python scripts follow original MATLAB code design published by Kranz et al 2014 (see reference). ![Dr. Brian Hopkinson](https://github.com/bmhopkinson) at Georgia University, to his credit, created the original model and the predecessor ![Chloroplast Pump model](https://github.com/bmhopkinson/Ci_physiology_modeling/tree/master/Chloroplast_pump)
+For modeling, Python scripts follow original MATLAB code design published by Kranz et al 2014 (see reference). ![Dr. Brian Hopkinson](https://github.com/bmhopkinson) at University of Georgia, to his credit, created the original model and the predecessor ![Chloroplast Pump model](https://github.com/bmhopkinson/Ci_physiology_modeling/tree/master/Chloroplast_pump)
 The original code was posted here with his permission.
 
 ## References
