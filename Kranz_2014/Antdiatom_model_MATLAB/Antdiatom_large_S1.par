@@ -1,0 +1,22 @@
+cells/mL	100
+temp	-1.2
+DIC	2260
+pHe	8.04
+pHc	7.3
+pHp	8.15
+ksf	1E-6
+kcf	4.5E2
+kpf	3.7E-2
+kyf	1.8E4
+mRub	2.1E-15
+Vm_Bc	2.1E-17
+Km_Bc	140E-9
+Vm_Bp	6.8E-16
+Km_Bp	50E-9
+reff	15
+fc_sm	8E-6
+fb_sm	0
+fc_p	5E-8
+fb_p	0
+fc_y	1.5E-8
+________
