@@ -18,8 +18,13 @@ It reads/calculate the parameters from the input file\
  Please note that the output files has concentration units in µM, \
  fluxes in mol/cell/s.
 
- The code was tested last on March 9th, 2022 within Python 3.7.6 using Spyder 4.0.1
+ The first version of the code was tested last on March 9th, 2022 within Python 3.7.6 using Spyder 4.0.1
+ The updated version of the code was tested last on December 22nd, 2025 within Python 3.11.14 using Spyder 6.1.0
 
  Please Cite
- Li M et al., 2022 to be published
+ Li, Meng, and Jodi N. Young. "Extracellular carbonic anhydrase supports constitutive HCO3− Uptake in Fragilariopsis cylindrus regardless of temperature changes." Biorxiv (2022): 2022-09.
+
+or
+ Li, Meng, and Jodi N. Young. 2026, coming soon after peer review...
+
  if this code was helpful to your research.
