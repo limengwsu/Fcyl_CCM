@@ -493,9 +493,13 @@ def f_Ci(y,t, Vm_Bc, Km_Bc, Vm_Bp, Km_Bp, mRub, kcat_R, Km_R, kuf,kur,\
     #     Bup_cyt, Bup_chp, PS = (0, 0, 0)
     # else:   #light on
     t0 = 0 #this can be modified if the starting time point is not zero
-    f_active = 1-np.exp(-0.0045*(t-t0))
+    f_active = 1-np.exp(-0.002*(t-t0)) #this controls the initial slope of CO2 draw down
     Bup_cyt  = (Vm_Bc * Bic_srf)/(Km_Bc + Bic_srf) *1e9  *f_active# in nmol/cell
+    ## test decoupling of Bup_cyt and B_up_chp
+    f_active = 1-np.exp(-0.0045*(t-t0)) #this controls the initial slope of CO2 draw down
     Bup_chp  = (Vm_Bp * Bic_cyt)/(Km_Bp + Bic_cyt) *1e9  *f_active# in nmol/cell
+    
+    f_active = 1-np.exp(-1.0*(t-t0)) 
     
     PS       = mRub * (kcat_R * CO2_pyr)/(Km_R + CO2_pyr) *1e9 *f_active # in nmol/cell
     #print(PS)
