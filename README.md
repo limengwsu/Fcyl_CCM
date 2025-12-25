@@ -42,4 +42,6 @@ Kranz, Sven A., Jodi N. Young, Brian M. Hopkinson, Johanna AL Goldman, Philippe 
 
 Or cite the to-be-published work by Li M et al 2022 if the data analysis tools are useful for your work.\
 
-Meng Li, Brian M. Hopkinson, Jodi N. Young 2022, under preparation...
+Li, Meng, and Jodi N. Young. "Extracellular carbonic anhydrase supports constitutive HCO3− Uptake in Fragilariopsis cylindrus regardless of temperature changes." Biorxiv (2022): 2022-09.
+
+A peer reviewed publication is coming later...
