@@ -38,10 +38,6 @@ The original code was posted here with his permission.
 ## References
 Please cite the following work if the CCM model is helpful:\
 
+Li, Meng, and Jodi N. Young. "Role of extracellular carbonic anhydrase in the polar diatom Fragilariopsis cylindrus." New Phytologist. (2026) https://doi.org/10.1111/nph.70996
+\
 Kranz, Sven A., Jodi N. Young, Brian M. Hopkinson, Johanna AL Goldman, Philippe D. Tortell, and François MM Morel. "Low temperature reduces the energetic requirement for the CO 2 concentrating mechanism in diatoms." New Phytologist 205, no. 1 (2015): 192-201.\
-
-Or cite the to-be-published work by Li M et al 2022 if the data analysis tools are useful for your work.\
-
-Li, Meng, and Jodi N. Young. "Extracellular carbonic anhydrase supports constitutive HCO3− Uptake in Fragilariopsis cylindrus regardless of temperature changes." Biorxiv (2022): 2022-09.
-
-A peer reviewed publication is coming later...
